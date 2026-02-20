@@ -11,7 +11,7 @@ url_corso = "https://didatticaeca.uniecampus.it/allievo/eroga_ua.aspx"
 # ⚠️ AGGIORNA SEMPRE I COOKIE PRIMA DI AVVIARE
 cookies = {
     'cto_lwid': 'YOURKEY', 
-    'ASP.NET_SessionId': 'qpih2mgw42a5d1mdqfd0hz4z',
+    'ASP.NET_SessionId': 'YOUR KEY',
     '_shibsession_64696461747469636165636168747470733a2f2f6469646174746963616563612e756e696563616d7075732e69742f73686962626f6c657468': 'YOUR KEY',
     'autenticazione': 'YOUR KEY'
 }
